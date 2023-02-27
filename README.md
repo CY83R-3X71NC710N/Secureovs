@@ -31,4 +31,3 @@ The Secureovs application is still undergoing development where the primary focu
 ## License
 The Secureovs project is under an [MIT License](./LICENSE). <br/>
 Created by CY83R-3X71NC710N ©2023 <br>
-```
